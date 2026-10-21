@@ -9,10 +9,10 @@ LingXi builds digital tools for nonprofits, schools and community groups — for
 
 ## Use LingXi in your AI assistant
 
-**[lingxi-global](https://github.com/lingxi/lingxi-global)** lets Claude, Codex and other AI assistants work with your LingXi Global forms, activity registrations and contacts, and guides you through connecting your account the first time.
+**[lingxi-global-skills](https://github.com/lingxi/lingxi-global-skills)** lets Claude, Codex and other AI assistants work with your LingXi Global forms, activity registrations and contacts, and guides you through connecting your account the first time.
 
 ```bash
-claude plugin install lingxi-global --marketplace lingxi/lingxi-global
+claude plugin install lingxi-global --marketplace lingxi/lingxi-global-skills
 ```
 
 Or send this sentence to your AI assistant:
